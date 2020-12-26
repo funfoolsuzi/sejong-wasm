@@ -4,7 +4,7 @@
     "Xiwen Li<funfoolsuzi@gmail.com>"
   ],
   "description": "Sejong Buffer is a buffer that can receive ASCII bytes different from keyboard and send out UTF-32 Hangul string. This buffer allows deletion by Jamo.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "license": "MIT",
   "repository": {
     "type": "git",
