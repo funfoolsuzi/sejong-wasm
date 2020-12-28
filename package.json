@@ -1,16 +1,16 @@
 {
-  "name": "sejong-buffer",
+  "license": "MIT", 
   "collaborators": [
     "Xiwen Li<funfoolsuzi@gmail.com>"
-  ],
-  "description": "Sejong Buffer is a buffer that can receive ASCII bytes different from keyboard and send out UTF-32 Hangul string. This buffer allows deletion by Jamo.",
-  "version": "0.1.4",
-  "license": "MIT",
+  ], 
+  "name": "sejong-buffer", 
   "repository": {
-    "type": "git",
-    "url": "https://github.com/funfoolsuzi/sejong.git"
-  },
-  "module": "sejong.js",
-  "types": "sejong.d.ts",
-  "sideEffects": false
+    "url": "https://github.com/funfoolsuzi/sejong.git", 
+    "type": "git"
+  }, 
+  "sideEffects": false, 
+  "module": "sejong.js", 
+  "version": "0.1.5", 
+  "types": "sejong.d.ts", 
+  "description": "Sejong Buffer is a buffer that can receive ASCII bytes different from keyboard and send out UTF-32 Hangul string. This buffer allows deletion by Jamo."
 }
